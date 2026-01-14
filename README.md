@@ -1,7 +1,7 @@
 
 # CameoDrReport
 
-CameoDrReport contains a single function to generate the internal CAMEO Diet Recall Report form the provided enrollment and dietary recall tracker files.
+CameoDrReport contains a single function to generate the internal CAMEO Diet Recall Report from the provided enrollment and dietary recall tracker files.
 
 ## Installation
 
